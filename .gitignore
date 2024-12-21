@@ -1,0 +1,11 @@
+# Ignore Python environment folder
+chatbot/
+
+# Ignore Vosk model folder
+vosk-model-small-en-us-0.15/
+
+# Ignore other unnecessary files
+*.pyc
+__pycache__/
+.DS_Store
+.vscode/
